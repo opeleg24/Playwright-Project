@@ -55,6 +55,7 @@
 
     <!--API-->
     <BASE_URL_API>https://rahulshettyacademy.com/seleniumPractise/data/</BASE_URL_API>
-    <PRODUCT_NAMR_API>Brocolli - 1 Kg</PRODUCT_NAMR_API>
+    <PRODUCT_NAME_API>Brocolli - 1 Kg</PRODUCT_NAME_API>
+    <AMOUNT_OF_PRODUCTS_API>30</AMOUNT_OF_PRODUCTS_API>
 
 </Environment>
