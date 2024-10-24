@@ -27,11 +27,21 @@ def init_page(playwright: Playwright):
     base.page.set_default_timeout(150000)
     Base.init_pages()
     base.page.goto(get_data('BASE_URL'))
+
     yield
     time.sleep(3)
     base.context.tracing.stop(path="trace.zip")
     base.context.close()
     base.browser.close()
+
+
+@pytest.fixture(scope='class')
+def init_api(playwright: Playwright):
+    base.request_context = playwright.request.new_context(
+        base_url=get_data("BASE_URL_API"))
+
+    yield
+    base.request_context.dispose()
 
 
 @pytest.fixture()

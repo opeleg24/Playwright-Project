@@ -6,13 +6,12 @@ from page_objects.web_objects.products_page import ProductsPage
 page = None
 browser = None
 context = None
+request_context = None
 
 # Page Objects
 products_page = None
-
 check_out_page = None
 country_page = None
-api_actions = None
 
 
 class Base:

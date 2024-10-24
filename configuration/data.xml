@@ -4,7 +4,7 @@
     <BROWSER_TYPE>chrome</BROWSER_TYPE>
     <SLOW_MODE>100</SLOW_MODE>
     <BASE_URL>https://rahulshettyacademy.com/seleniumPractise/#/</BASE_URL>
-
+    <!--WEB-->
     <!--data for test case01-->
 
     <COUNTER_INITIAL>0</COUNTER_INITIAL>
@@ -53,5 +53,8 @@
     <NO_RESULTS_SMALL>Enter a different keyword and try.</NO_RESULTS_SMALL>
     <NO_RESULTS_IMAGE>Empty Tree</NO_RESULTS_IMAGE>
 
+    <!--API-->
+    <BASE_URL_API>https://rahulshettyacademy.com/seleniumPractise/data/</BASE_URL_API>
+    <PRODUCT_NAMR_API>Brocolli - 1 Kg</PRODUCT_NAMR_API>
 
 </Environment>
