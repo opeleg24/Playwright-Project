@@ -1,2 +1,3 @@
 pytest -s -v test_cases/test_web.py --alluredir=./allure-results
+pytest -s -v test_cases/test_api.py --alluredir=./allure-results
 allure serve allure-results
