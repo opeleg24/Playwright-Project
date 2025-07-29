@@ -20,3 +20,5 @@ class CountryPage:
 
     def get_success_message(self):
         return self.success_message
+
+

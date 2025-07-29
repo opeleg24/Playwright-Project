@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d5ea55a8-06e1-45ea-8876-14b8e58b5123" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/02cfdc96-f22b-465e-b818-3e341a4b698d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5a9dbb9d-c20d-4607-aea2-d5e79b66f426-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7552b07d-f71f-418e-affd-83a83668124a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/796693fe-7be9-4e5c-b356-1f3abd2e5800-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/93c270d5-9ae2-4265-a5cf-9a8d5bfe7de7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a14a9de9-a197-4e8d-b30b-fe9755b69687-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a1b2d4b5-3179-471d-a825-29e7423c690c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a6b85122-f2f5-415c-9ad1-0eaed48622c5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a83e7abd-28d3-4ff5-8881-b0884cbf9243-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c04afaa5-e32d-4874-a602-bd9778516611-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c107cdfa-8b5e-43af-be64-8259dd85f365-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/dceec443-610b-46cd-b8e9-0c66deda2acf-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/df59a0bc-9f96-4f77-837a-af7828a05461-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e9b686d3-263c-411a-a0b6-1281c73463ba-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f0e3fde5-5cb8-470a-9cec-9da0a68d71b0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/behaviors.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/behaviors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/categories.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/categories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/packages.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/suites.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/suites.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/102c89fffa6dfe48.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/1172667a56a12cc5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/11816a0a2ca03cc1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/12741e8faf45a1a9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/1611d3c2e0304e9d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/1a4a95066a8b06aa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/1ade6aa1d172361b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/1e9c657f08c3c02d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/21db1e34ab2684da.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/21e11fe32775e9fc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/22d54e7c10739453.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/23ee49ff649e5ef7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/253076223268a0ad.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/257a313e0e766678.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/25c755dd2d790401.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/265e292fd81a812.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/26918e16486637c3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/2904898d00aa24f9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/296033fd5aa5c44e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/298c667e890cd2b2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/2a306ac0184dea8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/2d2d77f18724779f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/2f0b1a1332c299de.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/31a4dce9be0f2de7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/33308b71fad2697a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/3528c5af0c030419.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/369559b3726ecd3c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/36dd09ae6b751a81.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/37a3ecf82aeb0852.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/3bd4cca20f4528a7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/3ca871a2c67055d5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/406ec9dca16b6ef1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/411a724eb12e9adf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/416f5c2454969ae2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/4623d7f6644988a3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/47415eae51e11cd0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/4c661cdc2b9f5052.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/4e1d243ed29065ce.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/4f32bf7b1120af71.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/4f873903cb267924.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/50177dc72de2753a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/50ebb715c54a8b0c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/514c811368c7d38d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/517653d727c730e8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/53ac4dfa7c05cb30.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/54174293315b9e72.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/548f6f9177933c5a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/55007088418dce19.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/554bd34b4f965643.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/556d6519700892d8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/557153808964e40a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/55b0ccf93a3e626.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/5a40a1bf91e91828.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/5d806be2f9300dbe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/5dfdd01c5af11377.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/5fa1a5b960756ec4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/6290ed652af9917f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/63bb93dffa8b1f76.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/677d7ce0227c7a68.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/67ee5d1d75973e73.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/6f709f5445a17b10.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/774145703cf359a3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/7a4f035a7a24fd22.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/7b3b223ccbd43448.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/7bb8d1dd01e09576.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/7bcd8b8792337c56.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/7c11ed3dfbca54e3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/7c5061e3a80057d2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/7c62224c9a13d360.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/80cd8f2440c52c98.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/82293ebf9b965771.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/835e3a329ef12508.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/88109bce1e9d4661.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/895d43b7fac0c658.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/89e638b49eb0c229.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/8ae7fda9c9d348b6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/8bcc44709f26a7d8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/8ce126511ad928d4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/8ea10e037dbcd935.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/8f3a80b26e274e4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/9184f34818e0ecc3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/920395ee78f30e44.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/92c8919cf9e5e61c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/93dd0d4210d9850b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/95c400c6fa9ed363.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/966f9b4ac73cad10.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/99f16312dfb238c8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/9c46636fa1290c79.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/9d267d8a9a6a5217.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/9e73bf8f9e5183d0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/9f017d646d2c929b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/9f59752f6580af5b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/a2c3a7cb664e67de.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/a40df92a8bcb03ed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/a675b407e2133f9d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/a67b563a9f8f39c3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/a684ef97b7b786a8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/a68c9e2ddc05954.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/a9d281362725bd0b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/ac5d3c6f142dac25.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/b14a61512b4f0045.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/b221135ddbfa20e8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/b2b4db42495addd4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/b38ccdb9bd92d6ef.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/b51b31e02ebfb80e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/b67cb07ad890aafd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/b7c0dc4eb7bdbe33.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/b9d5e3bd322a3be.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/bac5e6b020afecc1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/bcef6c9a0ee291f5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/bd2698eb3f3fd632.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/be943ab093178f21.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/c201d5d03ff9739f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/c25a78b44056c62f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/c3067c6627d873d0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/c323aa06f6c22ae2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/c50a8b076e2ae47c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/c75fd57777f4f0a8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/c782356eafb4a1cb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/c8a698678fc3609e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/ca3b9c324117584c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/cbb145331f41dde7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/cc304b29e7d3b87f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/cdbbeca3bc29cb2c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/cfb4bcf98c8c11d5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/d0fb4bef71a4363.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/d1c0e3696124887d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/d205be54ca1434ba.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/d3da239466269775.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/d5e1dcb97f58511f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/daeb4e4f017e4ca5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/df1f535651317efe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/e19e6139fdaa3743.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/e489012a965d88b9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/e4d1e73333e25233.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/e781d48c6e9f67e1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/ea66e4c648274880.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/ed5a0a5f464b28ca.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/ef174003e626e3b5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/ef19d8bf89443705.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/f20214863b298249.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/f37dd2264e656c24.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/f3df6a22a3f37e9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/f444d986b120eb50.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/f50ade6518f53f0f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/f5b255a7d1381476.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/f7958e2156387524.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/f85d0d572d9b625e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/f86f663d099137f5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/f951bb0d462a7c2c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/fa41cca12ab25a3d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/fc5514946967b05d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/fd7931938a9ef1b3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/fe9fd784c00f91b5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/test-cases/ffd487b8fbd76039.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/data/timeline.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/export/influxDbData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/export/mail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/export/prometheusData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/history/categories-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/history/duration-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/history/history-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/history/history.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/history/retry-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/plugin/behaviors/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/plugin/packages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/plugin/screen-diff/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/plugin/screen-diff/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/widgets/behaviors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/widgets/categories-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/widgets/categories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/widgets/duration-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/widgets/duration.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/widgets/environment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/widgets/executors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/widgets/history-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/widgets/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/widgets/retry-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/widgets/severity.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/widgets/status-chart.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/widgets/suites.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-report/widgets/summary.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/00f1fc13-eab0-4547-bdec-157e5ab46340-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/064dc802-421a-488c-9e42-f41bbd136304-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/07cbaf29-f7a9-40e5-ac8d-6797f6c6653c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/09ff9834-691b-48e2-82df-939e77ebeda6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/0ce38e77-b6f1-4458-b13c-14d1ccef1021-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/10413d90-4fc1-44e5-ad6a-05e28aa64a8c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/104886fb-6ab1-4bd2-a649-badba91813c9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/12201e02-89a7-43d2-ad77-ad0869410424-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/15534663-ae93-449d-92d8-951988e3cfee-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/1ae5279d-5a9b-4883-8c07-6e72e3a6b755-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/1ae6a030-ee13-4a1a-8716-49d7d9585524-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/1affb675-4128-4158-82f2-9e1e6eda2052-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/1c0e802f-1c20-48c2-8b1b-19c728abdaad-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/1c76d54c-0a5c-477f-8d6c-fd1aa0ae6ecc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/1d400c43-c3ea-434a-b665-88b07b2a91a3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/27a044af-f63c-48dc-8093-57fe6ee4a0ce-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/27b93e8c-1839-4194-902d-8f102ab029ad-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/2c596304-16f6-4df3-8b21-fef0e2672cf8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/2d92904a-6c34-4618-b5cf-1acc445a0b11-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/2e111c4f-91a1-4916-8e8a-85a808d93253-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/30de8821-eb9f-43e1-bb45-933bef092a68-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/31e0ad37-e521-4d3a-b425-030ec6d91b7e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/32330416-80b2-41e6-862f-3dd855a39935-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/32e8fc6d-2dc9-4611-a6e5-f8f639d8122d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/35f6dcb4-16c8-4437-95fe-16d638ba78b2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/362e5531-306e-4e24-be5b-18be6bd1325c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/3a995dba-a503-4fbb-8de2-2a0ac3581363-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/3b3a28a1-6300-48ba-84a8-8a53184f1907-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/3ec8301c-5629-4b2a-ae78-d60efdaefe89-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/42b19c8f-0768-4c12-b39d-b15a2e2324dc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/489d1921-f78a-4493-bfdf-1642461c7fcb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/48ed493d-254c-4c27-a993-d4d5d0fa50af-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/49dfd3bb-2ede-4cb0-a163-aa396acde2d6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/4c29232b-de34-45a4-9d5c-6826353cf8a2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/50fd5a61-2c9f-45be-8857-490d2e09e480-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/51535965-c3d1-4a4e-86ed-c9fd8be7437f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/516dcf9f-75fe-40b2-aa73-b3be4556212c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/5a65750a-8b19-4bf6-a371-349bf3c7d37b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/5c61c1f5-ccab-4f23-ba78-15e123d37381-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/5c7ce5c7-6a33-464a-9a2d-b9a55d3b1a21-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/611c7f52-61ab-42cb-8df5-484c54c563cc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/62d27e3d-0375-4f30-86c4-f239146f6eae-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/63427c4b-3a7e-45f2-860e-0797988e6f67-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/64a15585-e979-4f38-ac8c-9f70d5e69bd6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/694c341b-5ca7-4b80-884e-076a4c6653d4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/6af42351-a755-41a4-b8a7-667bca77e6f2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/6ba81cf1-5f6e-4de8-9d64-6ddbcb31938f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/70825661-4690-4906-a4af-9d789786c233-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/70ac55ac-0305-47dc-a6d4-99ee178b707d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/70e7963f-07b3-4d3a-8024-68a132a93227-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/71f5122c-4938-4532-9625-01da53a2afca-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/7c326888-a50b-4329-9435-6e3dbd369908-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/82927ee7-8cdc-4d19-8286-e901de87bbad-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/831151dc-a3d2-4612-bef1-4e2ac79af58a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/83f494b7-50dd-4844-8547-054b5542ddc4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/85c19715-4d17-4feb-a347-5f734b0bda12-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/8764fef3-95b3-4e84-8f24-d7dfbda3da40-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/8884c0e9-3bc8-4b1c-b52e-5412024a2fb3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/89ccff35-14df-4134-8a61-9947870e77dc-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/8df99f8f-cf85-41bc-96fb-082a1437ef6e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/901d4210-d90e-425c-8d3d-73787d4ab47a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/95f9ccae-8632-481a-bc3f-0d97e649b5d9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/96b80405-8e81-4139-87dc-a1586a1a72c2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/975c76af-c434-44fa-bbb2-c2c665702f52-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/99b1ad40-86e1-481b-95ed-a72e19dbf0f0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/9f702862-9606-4cdf-95ae-a80518d262b7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/a9871229-53a2-48e2-b92e-3afedc0d19ba-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/aabdb22d-ef75-4e9b-afbf-0d6b970e91a6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/ad7d77e9-e8d6-4c13-aa79-af506f555762-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/ae5cf63a-a3d8-4b43-a951-ee8cc31807fd-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/aeb93537-80cf-44d0-9129-f99e00bd0a7a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/aebd950c-6471-4cbb-a98b-73cc6372ca8b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/b1c08acd-a810-41d8-a759-d2b5b7ccf82c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/b75dd841-e9b4-448e-9162-05888fd3348a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/c2a68a85-ab19-41f4-9158-5aef721e3847-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/c387a303-34af-4dc6-9408-bfedab6c8b54-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/c5a18d67-fc21-4c70-8899-b6567fb201c2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/c6fc3623-cfff-4305-800d-50afd1788d0d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/c7ea944b-e780-4295-b122-7e6bbec06a3f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/c8ca9cd2-985c-4f1e-8d4a-05aa7be2835b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/c8cb5406-2a98-4636-9dcd-321e632c5800-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/ccc6d9af-2b42-4afd-a7c9-6d8f2f69936b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/cd2647ba-3c4e-437b-b613-49b8743285a6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/d1f5d4cf-2c68-4c8f-9c48-2cbc250c8a26-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/d8d7791f-cea9-4711-ac5e-53742a5ce63c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/d9446840-dd98-408e-954b-d4f25d8db86c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/e2856d89-3ce0-4230-886b-a2b8c28ba3ba-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/e332d85c-b383-4356-a0fa-306a06f989d7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/e33e4a64-3211-44b9-afaf-210923a72d01-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/e4dbe0e1-80cb-436f-85a0-de176d1a06a9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/e52794e3-ae10-4245-828d-49e1a65480b2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/e56a4dbe-eb0e-4aa9-a8b3-193c71de6676-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/e82a28fd-89d2-44e6-9536-196fdb1f1539-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/ec677216-4bf6-49d7-8bdb-6b51ffc0c7f1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/eeb59146-fe1b-4741-a8fa-ee3f3cee45ab-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/executor.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/f3fc8d82-5b84-43c3-8b51-9242951d7728-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/f609b6a1-1e4a-4c14-9fe4-d6494d5fa66b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/f8c7772d-29ec-402c-8f66-3358c1b57a7a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/fabf90b4-e5db-4e50-80c1-3ba716b62bc4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/fcb0f5a6-8e6e-4c9b-ad07-0cdffad1d37b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/fd1f6878-658e-41cb-928b-6a0b638dfcc9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/fe7215bd-db54-4d1a-acf4-a121fa007116-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/history/categories-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/history/duration-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/history/history-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/history/history.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/history/retry-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-results/testrun.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-screen-shots/screen_1739430727.487795.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/allure-screen-shots/screen_1739430739.4813337.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/test_cases/test_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/workflows/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_automation_2024/cameleon_testing/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_automation_2024/cameleon_testing/testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_automation_2024/drafts/TEST02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_automation_2024/rest_api/lesson02/test_delete.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Playwright-Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Playwright-Project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extentions/api_actions.py" beforeDir="false" afterPath="$PROJECT_DIR$/extentions/api_actions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page_objects/web_objects/country_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/page_objects/web_objects/country_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_cases/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases/trace.zip" beforeDir="false" afterPath="$PROJECT_DIR$/test_cases/trace.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilities/common_ops.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/common_ops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/.idea/full_stack_automation_final_project_2024.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/.idea/full_stack_automation_final_project_2024.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/configuration/data.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/configuration/data.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/page_objects/web_objects/blog_pages.py" beforeDir="false" afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/page_objects/web_objects/blog_pages.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/test_cases/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/test_cases/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/test_cases/test_web.py" beforeDir="false" afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/test_cases/test_web.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/utilities/common_ops.py" beforeDir="false" afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/utilities/common_ops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/workflows/web_flows.py" beforeDir="false" afterPath="$PROJECT_DIR$/../full_stack_automation_final_project_2024/workflows/web_flows.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_automation_2024/drafts/gffdgdfg.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test_automation_2024/drafts/gffdgdfg.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2o0zlq1MTwNLxvHOkL6KBwvqIGr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Automation/Playwright-Project",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.gffdgdfg">
+    <configuration name="gffdgdfg" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test_automation_2024" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../test_automation_2024/drafts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../test_automation_2024/drafts/gffdgdfg.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_web.Test_Web.test_pages_links" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="full_stack_automation_final_project_2024" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../full_stack_automation_final_project_2024/test_cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_web.Test_Web.test_pages_links&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.gffdgdfg" />
+        <item itemvalue="Python tests.Python tests for test_web.Test_Web.test_pages_links" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5ea55a8-06e1-45ea-8876-14b8e58b5123" name="Changes" comment="" />
+      <created>1730021436070</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730021436070</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
