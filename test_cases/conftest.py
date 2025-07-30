@@ -30,7 +30,7 @@ def init_page(playwright: Playwright):
 
     yield
     # to see results in end of test
-    time.sleep(2)
+    time.sleep(1)
 
     base.context.tracing.stop(path="trace.zip")
     base.context.close()
