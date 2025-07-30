@@ -29,7 +29,9 @@ def init_page(playwright: Playwright):
     base.page.goto(get_data('BASE_URL'))
 
     yield
-    # time.sleep(3)
+    # to see results in end of test
+    time.sleep(2)
+
     base.context.tracing.stop(path="trace.zip")
     base.context.close()
     base.browser.close()
