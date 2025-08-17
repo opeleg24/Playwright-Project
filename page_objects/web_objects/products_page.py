@@ -8,6 +8,7 @@ class ProductsPage:
     def __init__(self, page: Page):
         self.page = page
         self.product = None
+        self.page_header = self.page.locator("[class='brand greenLogo']")
         self.search_box = self.page.locator("input[type='search']")
         self.no_results_large_message = self.page.locator("[class='no-results'] h2")
         self.no_results_small_message = self.page.locator("[class='no-results'] p")
@@ -41,6 +42,9 @@ class ProductsPage:
 
     def get_price_product(self):
         return self.product.locator("//../p").nth(2)
+        
+    def get_page_header_text(self):
+        return self.page_header.text_content()
 
     def increment_action_decrease(self):
         return self.product.locator("//../div[2]/a[1]")

@@ -9,9 +9,18 @@ import allure
 from utilities.base import Base
 
 
+
+
 class WebFlows:
+    @staticmethod
+    @allure.step("Verify page header text")
+    def verify_page_header(expected_header: str):
+        actual_header = base.products_page.get_page_header_text()
+        Verifications.verify_soft_assert_equals(actual_header.strip(), expected_header, "Page header")
+
 
     @staticmethod
+    @allure.step("Verify initial amount in header display")
     def verify_initial_amount_in_header_display(initial_items_amount, initial_price):
         actual_initial_product_amount = UiActions.get_text(base.products_page.get_items_indicator_header())
         actual_initial_price = UiActions.get_text(base.products_page.get_price_indicator_header())
