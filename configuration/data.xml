@@ -48,7 +48,7 @@
     <COUNTRY>Israel</COUNTRY>
     <ORDER_MESSAGE>Thank you, your order has been placed successfully</ORDER_MESSAGE>
 
-    <!-- Data for test case 08: No search results verification -->
+    <!--data for test case08-->
     <SEARCH_INPUT>TEST</SEARCH_INPUT>
     <NO_RESULTS_LARGE>Sorry, no products matched your search!</NO_RESULTS_LARGE>
     <NO_RESULTS_SMALL>Enter a different keyword and try.</NO_RESULTS_SMALL>
