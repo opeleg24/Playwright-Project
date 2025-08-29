@@ -24,7 +24,7 @@ def init_page(playwright: Playwright):
     # Start tracing before creating a context
     base.context.tracing.start(screenshots=True, snapshots=True, sources=True)
     base.page = base.context.new_page()
-    base.page.set_default_timeout(150000)
+    base.page.set_default_timeout(10000)
     Base.init_pages()
     base.page.goto(get_data('BASE_URL'))
 

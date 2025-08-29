@@ -15,7 +15,7 @@ class WebFlows:
     @staticmethod
     @allure.step("Verify page header text")
     def verify_page_header(expected_header: str):
-        actual_header = base.products_page.get_page_header_text()
+        actual_header = base.products_page.get_page_header_text("Page header")
         Verifications.verify_soft_assert_equals(actual_header.strip(), expected_header, "Page header")
 
 

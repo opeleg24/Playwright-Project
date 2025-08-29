@@ -1,3 +1,4 @@
+import pytest
 from playwright.sync_api import Page
 import allure
 
@@ -43,7 +44,8 @@ class ProductsPage:
     def get_price_product(self):
         return self.product.locator("//../p").nth(2)
         
-    def get_page_header_text(self):
+    def get_page_header_text(self,description):
+
         return self.page_header.text_content()
 
     def increment_action_decrease(self):
@@ -75,39 +77,6 @@ class ProductsPage:
 
     def get_proceed_to_checkout(self):
         return self.proceed_to_checkout
-
-    # def increment_product_one_click(self, product_name):
-    #     product_price = self.get_price_one_product(product_name)
-    #     UiActions.click(
-    #         self.product.locator("//../div[2]/a[2]"))
-    #     product_price = product_price * 2
-    #     return product_price
-    #
-    # def increment_product_two_click(self, product_name):
-    #     product_price = self.get_price_three_products(product_name)
-    #     UiActions.double_click(
-    #         self.product.locator("//../div[2]/a[2]"))
-    #     product_price = product_price * 3
-    #     return product_price
-
-    # @allure.step("Get price of one product")
-    # def get_price_one_product(self, product_name):
-    #     for product in self.products:
-    #         if product['name'] == product_name:
-    #             return product['price']
-    #
-    # @allure.step("Get price of two product")
-    # def get_price_one_product(self, product_name):
-    #     for product in self.products:
-    #         if product['name'] == product_name:
-    #             return product['price_two_products'], product['price_after_3_products']
-
-    # @allure.step("Get price of three product")
-    # @allure.step("Fill search box with text")
-    # def get_price_three_products(self, product_name):
-    #     for product in self.products:
-    #         if product['name'] == product_name:
-    #             return product['price_after_3_products']
 
     @allure.step("Fill search box with text")
     def fill_search_box(self, text):
