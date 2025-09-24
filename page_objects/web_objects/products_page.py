@@ -22,6 +22,7 @@ class ProductsPage:
         self.product_total_amount_in_cart = self.page.locator("p[class='amount']")
         self.quantity = self.page.locator("[class='cart-item'] [class='quantity']")
         self.proceed_to_checkout = self.page.locator("text=PROCEED TO CHECKOUT")
+        self.page_footer = self.page.locator("footer")
 
     def get_search_box(self):
         return self.search_box
@@ -77,6 +78,9 @@ class ProductsPage:
 
     def get_proceed_to_checkout(self):
         return self.proceed_to_checkout
+
+    def get_page_footer(self):
+        return self.page_footer
 
     @allure.step("Fill search box with text")
     def fill_search_box(self, text):

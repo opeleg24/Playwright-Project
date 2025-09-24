@@ -179,3 +179,11 @@ class WebFlows:
         Verifications.verify_soft_assert_equals(no_results_small,
                                                 UiActions.get_text(base.products_page.get_no_results_small()))
         verify_expectations()
+
+    @staticmethod
+    @allure.step("Verify page footer text")
+    def verify_page_footer(expected_footer: str):
+        actual_footer = UiActions.get_text(base.products_page.get_page_footer())
+        Verifications.verify_contains(expected_footer,
+            actual_footer.strip(),"Page footer")
+        verify_expectations()

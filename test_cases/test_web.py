@@ -9,10 +9,11 @@ from workflows.web_flow import WebFlows
 @pytest.mark.usefixtures('init_page')
 class Test_Web:
 
-    @allure.title("Test01: Verify page header text")
-    @allure.description("This test verifies that the page header displays the correct text")
+    @allure.title("Test01: Verify page header and footer text")
+    @allure.description("This test verifies that the page header and footer display the correct text")
     def test_verify_page_header(self):
         WebFlows.verify_page_header(get_data("PAGE_HEADER"))
+        WebFlows.verify_page_footer(get_data("PAGE_FOOTER"))
 
     @allure.title("Test02: Verify initial amount of items & products in header display")
     @allure.description("This test verifies the initial amount of items & products in the header display")

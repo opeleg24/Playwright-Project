@@ -3,6 +3,7 @@
     <!--Setup-->
     <BROWSER_TYPE>chrome</BROWSER_TYPE>
     <PAGE_HEADER>GREENKART</PAGE_HEADER>
+    <PAGE_FOOTER>© 2019 GreenKart - buy veg and fruits online when verifying Page footer</PAGE_FOOTER>
     <SLOW_MODE>100</SLOW_MODE>
     <BASE_URL>https://rahulshettyacademy.com/seleniumPractise/#/</BASE_URL>
     <!--WEB-->
